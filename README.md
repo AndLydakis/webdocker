@@ -1,1 +1,1 @@
-# webdocker
+# Containerized Rust App for AWS deployment
